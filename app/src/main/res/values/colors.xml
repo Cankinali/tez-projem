@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark">#1A1A1A</color>
+    <color name="primary_dark_light">#2D2D2D</color>
+    <color name="accent_blue">#4FC3F7</color>
+    <color name="accent_green">#66BB6A</color>
+    <color name="accent_red">#EF5350</color>
+    <color name="accent_orange">#FF9800</color>
+    <color name="accent_purple">#AB47BC</color>
+
+    <!-- Background Colors -->
+    <color name="bg_primary">#121212</color>
+    <color name="bg_secondary">#1E1E1E</color>
+    <color name="bg_tertiary">#2D2D2D</color>
+    <color name="bg_card">#252525</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_tertiary">#808080</color>
+
+    <!-- Status Colors -->
+    <color name="status_safe">#4CAF50</color>
+    <color name="status_warning">#FF9800</color>
+    <color name="status_danger">#F44336</color>
+    <color name="status_info">#2196F3</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_end">#764ba2</color>
+</resources>
